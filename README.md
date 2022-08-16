@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabikoanthony
-- 👀 I’m interested in Javascript, Flutter and Python should I include html/CDs cause everyone knows it now
-- 🌱 I’m currently learning Advanced Javascript, Python and Flutter
+- 👀 I’m interested in Javascript, Node and React Native should I include html/CDs cause everyone knows it now
+- 🌱 I’m currently learning Advanced Javascript, Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter @anthonymabiko4 and email anthonymabiko4@gmail.com 
 
